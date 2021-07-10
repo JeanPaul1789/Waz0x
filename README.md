@@ -13,4 +13,4 @@
 
 # Contact me
 
-[![Discord](https://lanyard-profile-readme.vercel.app/api/606758395583922176?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&hideStatus=true)](https://discord.com/users/606758395583922176)
+
