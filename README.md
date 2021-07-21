@@ -10,6 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Waz0x/codingame_discord_bot/pull/1) in [Waz0x/codingame_discord_bot](https://github.com/Waz0x/codingame_discord_bot)
+2. 💪 Opened PR [#1](https://github.com/Waz0x/codingame_discord_bot/pull/1) in [Waz0x/codingame_discord_bot](https://github.com/Waz0x/codingame_discord_bot)
 <!--END_SECTION:activity-->
 
 # Contact me
