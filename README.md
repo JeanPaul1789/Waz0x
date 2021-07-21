@@ -7,6 +7,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waz0x&layout=compact&theme=tokyonight)
 
 
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 # Contact me
 
 <p align="center">
