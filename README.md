@@ -5,7 +5,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Waz0x&count_private=true&theme=tokyonight&hide=stars&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waz0x&layout=compact&theme=tokyonight)
-
+![Graph Stats](https://activity-graph.herokuapp.com/graph?username=Waz0x&bg_color=141321&color=FF9DD9&line=FF9DD9&point=9dffc3)
 
 ## :zap: Recent Activity
 
