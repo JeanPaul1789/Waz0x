@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Waz0x/Waz0x.github.io/pull/3) in [Waz0x/Waz0x.github.io](https://github.com/Waz0x/Waz0x.github.io)
-2. 💪 Opened PR [#3](https://github.com/Waz0x/Waz0x.github.io/pull/3) in [Waz0x/Waz0x.github.io](https://github.com/Waz0x/Waz0x.github.io)
+1. 🎉 Merged PR [#4](https://github.com/Waz0x/Waz0x.github.io/pull/4) in [Waz0x/Waz0x.github.io](https://github.com/Waz0x/Waz0x.github.io)
+2. 💪 Opened PR [#4](https://github.com/Waz0x/Waz0x.github.io/pull/4) in [Waz0x/Waz0x.github.io](https://github.com/Waz0x/Waz0x.github.io)
 <!--END_SECTION:activity-->
 
 # Contact me
