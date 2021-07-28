@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/cats/cat/pull/22) in [cats/cat](https://github.com/cats/cat)
-2. 💪 Opened PR [#20](https://github.com/cats/cat/pull/20) in [cats/cat](https://github.com/cats/cat)
+1. 🗣 Commented on [#22](https://github.com/cats/cat/issues/22) in [cats/cat](https://github.com/cats/cat)
+2. 💪 Opened PR [#22](https://github.com/cats/cat/pull/22) in [cats/cat](https://github.com/cats/cat)
 <!--END_SECTION:activity-->
 
 # Contact me
