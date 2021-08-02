@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/cats/cat/pull/32) in [cats/cat](https://github.com/cats/cat)
-2. ❗️ Closed issue [#1](https://github.com/Waz0x/random_repo/issues/1) in [Waz0x/random_repo](https://github.com/Waz0x/random_repo)
+1. ❗️ Closed issue [#3](https://github.com/TheauWar/hackathon-FC_Madrias-epitech-toulouse/issues/3) in [TheauWar/hackathon-FC_Madrias-epitech-toulouse](https://github.com/TheauWar/hackathon-FC_Madrias-epitech-toulouse)
+2. ❗️ Closed issue [#2](https://github.com/TheauWar/hackathon-FC_Madrias-epitech-toulouse/issues/2) in [TheauWar/hackathon-FC_Madrias-epitech-toulouse](https://github.com/TheauWar/hackathon-FC_Madrias-epitech-toulouse)
 <!--END_SECTION:activity-->
 
 # Contact me
