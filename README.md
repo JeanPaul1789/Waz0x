@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Waz0x/random_repo/issues/1) in [Waz0x/random_repo](https://github.com/Waz0x/random_repo)
-2. 🗣 Commented on [#30](https://github.com/cats/cat/issues/30) in [cats/cat](https://github.com/cats/cat)
+1. 💪 Opened PR [#32](https://github.com/cats/cat/pull/32) in [cats/cat](https://github.com/cats/cat)
+2. ❗️ Closed issue [#1](https://github.com/Waz0x/random_repo/issues/1) in [Waz0x/random_repo](https://github.com/Waz0x/random_repo)
 <!--END_SECTION:activity-->
 
 # Contact me
