@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Waz0x/codingame_discord_bot/pull/4) in [Waz0x/codingame_discord_bot](https://github.com/Waz0x/codingame_discord_bot)
-2. 🗣 Commented on [#14](https://github.com/cats/cat/issues/14) in [cats/cat](https://github.com/cats/cat)
+1. ❌ Closed PR [#3](https://github.com/Waz0x/codingame_discord_bot/pull/3) in [Waz0x/codingame_discord_bot](https://github.com/Waz0x/codingame_discord_bot)
+2. 🗣 Commented on [#3](https://github.com/Waz0x/codingame_discord_bot/issues/3) in [Waz0x/codingame_discord_bot](https://github.com/Waz0x/codingame_discord_bot)
 <!--END_SECTION:activity-->
 
 # Contact me
