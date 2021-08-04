@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/cats/cat/issues/14) in [cats/cat](https://github.com/cats/cat)
-2. ❗️ Closed issue [#3](https://github.com/TheauWar/hackathon-FC_Madrias-epitech-toulouse/issues/3) in [TheauWar/hackathon-FC_Madrias-epitech-toulouse](https://github.com/TheauWar/hackathon-FC_Madrias-epitech-toulouse)
+1. 🎉 Merged PR [#4](https://github.com/Waz0x/codingame_discord_bot/pull/4) in [Waz0x/codingame_discord_bot](https://github.com/Waz0x/codingame_discord_bot)
+2. 🗣 Commented on [#14](https://github.com/cats/cat/issues/14) in [cats/cat](https://github.com/cats/cat)
 <!--END_SECTION:activity-->
 
 # Contact me
