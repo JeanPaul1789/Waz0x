@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Mai-Sakurajima-Group/mai-sakurajima/issues/1) in [Mai-Sakurajima-Group/mai-sakurajima](https://github.com/Mai-Sakurajima-Group/mai-sakurajima)
-2. ❌ Closed PR [#3](https://github.com/Waz0x/codingame_discord_bot/pull/3) in [Waz0x/codingame_discord_bot](https://github.com/Waz0x/codingame_discord_bot)
+1. ❗️ Opened issue [#709](https://github.com/benjaminsampica/benjaminsampica/issues/709) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+2. ❗️ Opened issue [#1](https://github.com/Mai-Sakurajima-Group/mai-sakurajima/issues/1) in [Mai-Sakurajima-Group/mai-sakurajima](https://github.com/Mai-Sakurajima-Group/mai-sakurajima)
 <!--END_SECTION:activity-->
 
 # Contact me
