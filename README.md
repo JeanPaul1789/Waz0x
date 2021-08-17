@@ -14,6 +14,9 @@
 2. 🗣 Commented on [#1](https://github.com/Mai-Sakurajima-Group/mai-sakurajima/issues/1) in [Mai-Sakurajima-Group/mai-sakurajima](https://github.com/Mai-Sakurajima-Group/mai-sakurajima)
 <!--END_SECTION:activity-->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # Contact me
 
 <p align="center">
