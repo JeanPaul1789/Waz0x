@@ -10,7 +10,7 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Mai-Sakurajima-Group/mai-sakurajima/issues/1) in [Mai-Sakurajima-Group/mai-sakurajima](https://github.com/Mai-Sakurajima-Group/mai-sakurajima)
+1. ❗️ Opened issue [#738](https://github.com/benjaminsampica/benjaminsampica/issues/738) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 2. 🗣 Commented on [#1](https://github.com/Mai-Sakurajima-Group/mai-sakurajima/issues/1) in [Mai-Sakurajima-Group/mai-sakurajima](https://github.com/Mai-Sakurajima-Group/mai-sakurajima)
 <!--END_SECTION:activity-->
 
