@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#738](https://github.com/benjaminsampica/benjaminsampica/issues/738) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-2. 🗣 Commented on [#1](https://github.com/Mai-Sakurajima-Group/mai-sakurajima/issues/1) in [Mai-Sakurajima-Group/mai-sakurajima](https://github.com/Mai-Sakurajima-Group/mai-sakurajima)
+1. 🎉 Merged PR [#1](https://github.com/Waz0x/EpiWrap/pull/1) in [Waz0x/EpiWrap](https://github.com/Waz0x/EpiWrap)
+2. ❗️ Opened issue [#738](https://github.com/benjaminsampica/benjaminsampica/issues/738) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
