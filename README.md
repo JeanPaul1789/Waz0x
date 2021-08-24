@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Waz0x/EpiWrap/pull/1) in [Waz0x/EpiWrap](https://github.com/Waz0x/EpiWrap)
-2. ❗️ Opened issue [#738](https://github.com/benjaminsampica/benjaminsampica/issues/738) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+1. 🎉 Merged PR [#2](https://github.com/Waz0x/EpiWrap/pull/2) in [Waz0x/EpiWrap](https://github.com/Waz0x/EpiWrap)
+2. 🎉 Merged PR [#1](https://github.com/Waz0x/EpiWrap/pull/1) in [Waz0x/EpiWrap](https://github.com/Waz0x/EpiWrap)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
