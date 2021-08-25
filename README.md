@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#755](https://github.com/benjaminsampica/benjaminsampica/issues/755) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-2. ❗️ Opened issue [#3370](https://github.com/JonathanGin52/JonathanGin52/issues/3370) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. ❗️ Opened issue [#3](https://github.com/Waz0x/EpiWrap/issues/3) in [Waz0x/EpiWrap](https://github.com/Waz0x/EpiWrap)
+2. ❗️ Opened issue [#755](https://github.com/benjaminsampica/benjaminsampica/issues/755) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
