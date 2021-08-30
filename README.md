@@ -24,6 +24,9 @@ Bash       9 mins          ▓░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+Profile views: 
+![](https://komarev.com/ghpvc/?username=Waz0x&color=ff69b4)
+
 # Contact me
 
 <p align="center">
