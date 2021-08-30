@@ -36,3 +36,4 @@ Profile views:
   <a href="https://hub.docker.com/u/waz0x"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a>
   <a href="https://discord.com/users/606758395583922176"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
 </p>
+![](https://hit.yhype.me/github/profile?user_id=72010287)
