@@ -27,14 +27,13 @@ CSV      4 mins          ░░░░░░░░░░░░░░░░░░�
 Profile views: 
 ![](https://komarev.com/ghpvc/?username=Waz0x&color=ff69b4)
 
-# Contact me
-
-<p align="center">
-  <a href="mailto:remy.noulin@epitech.eu"><img src="https://img.icons8.com/color/96/000000/ms-outlook.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/remynoulin/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://stackoverflow.com/users/15754672/r%c3%a9my-noulin"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-  <a href="https://hub.docker.com/u/waz0x"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a>
-  <a href="https://discord.com/users/606758395583922176"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
-</p>
-  
+<details><summary># Contact me</summary>
+  <p align="center">
+    <a href="mailto:remy.noulin@epitech.eu"><img src="https://img.icons8.com/color/96/000000/ms-outlook.png" alt="email"/></a>
+    <a href="https://www.linkedin.com/in/remynoulin/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+    <a href="https://stackoverflow.com/users/15754672/r%c3%a9my-noulin"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+    <a href="https://hub.docker.com/u/waz0x"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a>
+    <a href="https://discord.com/users/606758395583922176"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  </p>
+</details>
 ![](https://hit.yhype.me/github/profile?user_id=72010287)
