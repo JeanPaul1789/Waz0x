@@ -27,7 +27,7 @@ CSV      4 mins          ░░░░░░░░░░░░░░░░░░�
 Profile views: 
 ![](https://komarev.com/ghpvc/?username=Waz0x&color=ff69b4)
 
-<details><summary><h2>Contact me</h2></summary>
+<details><summary>Contact me</summary>
   <p align="center">
     <a href="mailto:remy.noulin@epitech.eu"><img src="https://img.icons8.com/color/96/000000/ms-outlook.png" alt="email"/></a>
     <a href="https://www.linkedin.com/in/remynoulin/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
