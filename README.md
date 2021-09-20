@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/noob-hackers/kalimux/pull/21) in [noob-hackers/kalimux](https://github.com/noob-hackers/kalimux)
-2. 🎉 Merged PR [#6](https://github.com/Waz0x/EpiWrap/pull/6) in [Waz0x/EpiWrap](https://github.com/Waz0x/EpiWrap)
+1. 💪 Opened PR [#551](https://github.com/all-contributors/all-contributors/pull/551) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+2. ❗️ Opened issue [#550](https://github.com/all-contributors/all-contributors/issues/550) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
