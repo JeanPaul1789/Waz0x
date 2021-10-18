@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#551](https://github.com/all-contributors/all-contributors/pull/551) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-2. ❗️ Opened issue [#550](https://github.com/all-contributors/all-contributors/issues/550) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+1. ❌ Closed PR [#551](https://github.com/all-contributors/all-contributors/pull/551) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+2. 💪 Opened PR [#551](https://github.com/all-contributors/all-contributors/pull/551) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
