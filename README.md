@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#382](https://github.com/all-contributors/app/issues/382) in [all-contributors/app](https://github.com/all-contributors/app)
-2. ❌ Closed PR [#551](https://github.com/all-contributors/all-contributors/pull/551) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+1. 🎉 Merged PR [#1](https://github.com/Waz0x/epibot/pull/1) in [Waz0x/epibot](https://github.com/Waz0x/epibot)
+2. ❗️ Opened issue [#382](https://github.com/all-contributors/app/issues/382) in [all-contributors/app](https://github.com/all-contributors/app)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
