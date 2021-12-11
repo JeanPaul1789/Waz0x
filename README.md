@@ -10,8 +10,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Waz0x/epibot/pull/4) in [Waz0x/epibot](https://github.com/Waz0x/epibot)
-2. 🎉 Merged PR [#3](https://github.com/Waz0x/epibot/pull/3) in [Waz0x/epibot](https://github.com/Waz0x/epibot)
+1. ❌ Closed PR [#5](https://github.com/Waz0x/epibot/pull/5) in [Waz0x/epibot](https://github.com/Waz0x/epibot)
+2. 🗣 Commented on [#5](https://github.com/Waz0x/epibot/issues/5) in [Waz0x/epibot](https://github.com/Waz0x/epibot)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
