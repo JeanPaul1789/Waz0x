@@ -16,8 +16,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C            20 mins         ███████████████████▒░░░░░   77.27 % 
-Other        4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.52 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
