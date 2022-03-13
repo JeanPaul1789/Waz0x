@@ -17,9 +17,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Haskell      8 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   37.19 %
-C++          4 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   20.22 %
-Other        3 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+Haskell      8 hrs 40 mins   ███████████▒░░░░░░░░░░░░░   45.03 %
+Other        3 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
 ```
 
 <!--END_SECTION:waka-->
