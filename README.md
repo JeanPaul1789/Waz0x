@@ -17,9 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Haskell      7 hrs 7 mins    ███████████░░░░░░░░░░░░░░   43.36 %
-Python       3 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 %
-Other        1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Haskell      7 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.13 %
+Python       3 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+Other        1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
 ```
 
 <!--END_SECTION:waka-->
